@@ -1,4 +1,4 @@
-# RNN
+# RNN trained on neuroscience behavioral tasks
 
 ## Evaluating the hidden dimensions of a recurrent network needed to solve a perceptual decision making task and whether training the recurrent connections are necessary for solving the task
 
