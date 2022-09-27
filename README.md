@@ -6,10 +6,10 @@
 
 
 ## Example performances
-<img src="performances_4.png" alt="drawing" width="500"/> <img src="performances_8.png" alt="drawing" width="500"/>
-<img src="performances_16.png" alt="drawing" width="500"/> <img src="performances_32.png" alt="drawing" width="500"/>
+<img src="performances_4.png" alt="drawing" width="300"/> <img src="performances_8.png" alt="drawing" width="300"/>
+<img src="performances_16.png" alt="drawing" width="300"/> <img src="performances_32.png" alt="drawing" width="300"/>
 
 ## Looking at the evolving dynamics over time using PCA
-<img src="pca_16_1.png" alt="drawing" width="500"/> <img src="pca_16_0.png" alt="drawing" width="500"/>
-<img src="pca_32_1.png" alt="drawing" width="500"/> <img src="pca_32_0.png" alt="drawing" width="500"/>
-<img src="pca_64_1.png" alt="drawing" width="500"/> <img src="pca_64_0.png" alt="drawing" width="500"/>
+<img src="pca_16_1.png" alt="drawing" width="300"/> <img src="pca_16_0.png" alt="drawing" width="300"/>
+<img src="pca_32_1.png" alt="drawing" width="300"/> <img src="pca_32_0.png" alt="drawing" width="300"/>
+<img src="pca_64_1.png" alt="drawing" width="300"/> <img src="pca_64_0.png" alt="drawing" width="300"/>
